@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @RaihanulHaque
-- 👀 I’m interested in Cometitive Programming, Web Development, Computer Vision & Machine Learning
-- 🌱 I’m currently learning new algorithms and flutter
-- 💞️ I’m looking to collaborate on computer vision related fields
-- 📫 How to reach me ...
-
 <!---
 RaihanulHaque/RaihanulHaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,6 +8,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+- 👋 Hi, I’m @RaihanulHaque
+- 👀 I’m interested in Cometitive Programming, Web Development, Computer Vision & Machine Learning
+- 🌱 I’m currently learning new algorithms and flutter
+- 💞️ I’m looking to collaborate on computer vision related fields
+- 📫 How to reach me ...
 <hr>
 <!-- <br>
 <p align='center'>
