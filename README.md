@@ -6,15 +6,31 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4600&pause=990&center=true&vCenter=true&width=435&lines=%40RaihanulHaque;I'm+Raihanul+Haque+Rahi;Mechatronics+Engineering+Student;Competitve+Programmer" alt="Typing SVG" />
 </p>
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- <p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p> -->
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 
 - 👋 Hi, I’m @RaihanulHaque
-- 👀 I’m interested in Cometitive Programming, Web Development, Computer Vision & Machine Learning
+- 👀 A passionate Cometitive Programmer, Web Developer, Computer Vision & Machine Learning Enthusiast
 - 🌱 I’m currently learning new algorithms and flutter
 - 💞️ I’m looking to collaborate on computer vision related fields
 - 📫 How to reach me ...
-<hr>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<!-- - 👋 Hi, I’m @RaihanulHaque
+- 👀 I’m interested in Cometitive Programming, Web Development, Computer Vision & Machine Learning
+- 🌱 I’m currently learning new algorithms and flutter
+- 💞️ I’m looking to collaborate on computer vision related fields
+- 📫 How to reach me ... -->
+<!-- <hr> -->
 <!-- <br>
 <p align='center'>
 <!-- <img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp; -->
@@ -23,13 +39,18 @@ You can click the Preview link to take a look at your changes.
 <!-- </p> -->
 <!-- <br> --> 
 
+
+
+
+
 ## Github Contribution Streak 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=RaihanulHaque&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
-## Github Stats &nbsp;📊
+<!-- ## Github Stats &nbsp;📊 -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=RaihanulHaque&show_icons=true&theme=github_dark">
